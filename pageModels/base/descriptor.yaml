@@ -1,0 +1,13 @@
+code: base_page
+description: Base Page
+
+titles:
+  it: Pagina di Base
+
+configuration:
+  frames:
+    - pos: 0
+      description: Place
+      sketch: { x1: 0, y1: 0, x2: 11, y2: 1 }
+
+templatePath: page.ftl

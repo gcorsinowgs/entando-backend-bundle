@@ -1,0 +1,6 @@
+code: backoffice_bundle
+description: simple backoffice bundle
+
+components:
+  pageModels:
+    - pageModels/base/descriptor.yaml
